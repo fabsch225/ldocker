@@ -1,0 +1,6 @@
+FROM node:ubuntu
+
+ARG ARCH=x86-64-bmi2
+
+ENV API_TOKEN=
+ENV PORT=
